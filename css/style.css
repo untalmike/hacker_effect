@@ -1,0 +1,20 @@
+body {
+    background-color:#000000;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color: #FFF;
+    padding-left:8px;
+  }
+  
+  h1 {
+    font-size: 16vh;
+  }
+  
+  h1:hover{
+    font-size:20vh;
+    background: #FFF;
+    color:#000;
+    border-radius:15px;
+  }
+  
